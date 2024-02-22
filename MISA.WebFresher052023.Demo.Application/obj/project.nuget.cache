@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "csDA1VJsAl2OFR5pEEAD7sCWGL5goRTOpgi1n1KLGIO4tzvy24tuExXEneCGx5jwXSi6la9HcjB9Yfn947kkqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mynam\\Documents\\Old_Document\\Web_SelfLearn\\MISA_Learn\\MISA.WebFresher052023.Demo\\MISA.WebFresher052023.Demo.Application\\MISA.WebFresher052023.Demo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mynam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mynam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Collation>utf8_slovenian_ci</Collation>
+  <ServerVersion>10.5.21</ServerVersion>
+  <Entity>misa_web202305_tdhiep</Entity>
+  <ServerType>MariaDb</ServerType>
+  <SupportsConnectEngine>False</SupportsConnectEngine>
+</Configuration>

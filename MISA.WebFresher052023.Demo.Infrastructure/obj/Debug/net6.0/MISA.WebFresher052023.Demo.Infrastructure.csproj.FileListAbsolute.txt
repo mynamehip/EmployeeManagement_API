@@ -1,0 +1,30 @@
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.deps.json
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.pdb
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.CopyComplete
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\refint\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.pdb
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\ref\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.deps.json
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.pdb
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.AssemblyInfo.cs
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.csproj.CopyComplete
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\refint\MISA.WebFresher052023.Demo.Infrastructure.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Infrastructure.pdb
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Infrastructure\obj\Debug\net6.0\ref\MISA.WebFresher052023.Demo.Infrastructure.dll

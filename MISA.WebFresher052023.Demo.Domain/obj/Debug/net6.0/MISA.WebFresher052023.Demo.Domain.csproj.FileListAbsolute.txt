@@ -1,0 +1,23 @@
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.deps.json
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.csproj.AssemblyReference.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.AssemblyInfoInputs.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.AssemblyInfo.cs
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\refint\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\Bravo 15\Documents\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\ref\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.deps.json
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\bin\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.AssemblyInfoInputs.cache
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.AssemblyInfo.cs
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\refint\MISA.WebFresher052023.Demo.Domain.dll
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\MISA.WebFresher052023.Demo.Domain.pdb
+C:\Users\mynam\Documents\Old_Document\Web_SelfLearn\MISA_Learn\MISA.WebFresher052023.Demo\MISA.WebFresher052023.Demo.Domain\obj\Debug\net6.0\ref\MISA.WebFresher052023.Demo.Domain.dll
